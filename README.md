@@ -4,7 +4,7 @@ Projeto para listar, filtrar e exibir detalhes dos pacientes obtidos por uma api
 
 ## Tecnologias usadas
 ```
-Javascript, Vue.js
+Javascript, Vue.js, Vuetify
 ```
 
 ## Project setup
